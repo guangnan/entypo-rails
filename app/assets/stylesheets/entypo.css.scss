@@ -11,6 +11,17 @@
   text-align: center;
 }
 
+[class^=".icon-social-"], [class*=" icon-social-"] {
+  font-family: entypo-social;
+  font-style: normal;
+  font-weight: normal;
+  display: inline-block;
+  width: 1.1em;
+  margin-right: .1em;
+  text-align: center;
+}
+
+
 /* main icon map */
 .icon-phone:before { content: '\1f4de'; } /* 1f4de */
 .icon-mobile:before { content: '\1f4f1'; } /* 1f4f1 */
